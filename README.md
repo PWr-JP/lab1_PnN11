@@ -2,3 +2,5 @@
 
 zmiana lokalna
 
+zmiana na githubie
+
